@@ -1,1 +1,2 @@
-# ubiquitous-funicular
+# Ubiquitous funicular
+
